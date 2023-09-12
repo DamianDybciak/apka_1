@@ -7,7 +7,7 @@
     <title>FORM</title>
 </head>
 <body>
-   
+   <?php?>
     <form method="POST" action="apka.php">
 
         Login <input type="text" name="login" size="20" maxlength="25"> <br>
