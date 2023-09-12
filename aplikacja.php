@@ -6,7 +6,9 @@
     <title>Document</title>
 </head>
 <body>
+    <? echo"Zaloguj się ";?> 
 <form method="GET" action="aplikacja.php">
+
 
     Login <input type="text" name="login" size="20" maxlength="25"> <br>
     Hasło <input type="password" name="haslo" size="20" maxlength="25"> <br>
